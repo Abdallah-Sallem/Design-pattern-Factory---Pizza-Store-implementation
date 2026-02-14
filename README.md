@@ -115,6 +115,7 @@ public class Main {
 ```
 
 ### Expected Output
+When you run the application, you'll see:
 ```
 Preparing Tunis Style Cheese Pizza
 Preparing 
@@ -122,6 +123,8 @@ Baking
 Cutting 
 Boxing 
 ```
+
+**Note**: The output shows the pizza creation process - first the specific pizza type is prepared (in this case "Tunis Style Cheese Pizza"), followed by the standard preparation steps that all pizzas go through (preparing ingredients, baking, cutting, and boxing).
 
 ## 🎨 Available Pizza Types
 
